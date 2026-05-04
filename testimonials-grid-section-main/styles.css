@@ -26,11 +26,13 @@ body {
 }
 
 { 
-    .purple, .white-small, .white-tall, .grey, .black-long {
+    .purple, .white-small, .white-tall, .grey, .black-long { 
         padding: 2rem;
         border-radius: 5px;
-    }
-
+}
+.purple img, .white-small img, .white-tall img, .grey img, .black-long img {
+    border-radius: 50%;
+    width: 70%
 }
 
 .purple {
