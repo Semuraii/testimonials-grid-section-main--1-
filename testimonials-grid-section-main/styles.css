@@ -27,6 +27,9 @@ body {
 
 .user {
     display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 1.5rem;
 }
  
     .purple, .white-small, .white-tall, .grey, .black-long { 
