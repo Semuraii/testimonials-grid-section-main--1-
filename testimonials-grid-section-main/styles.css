@@ -24,8 +24,7 @@ body {
     height: auto;
     background-color: var(--clr-light-grayish-blue);
 }
-
-{ 
+ 
     .purple, .white-small, .white-tall, .grey, .black-long { 
         padding: 2rem;
         border-radius: 5px;
