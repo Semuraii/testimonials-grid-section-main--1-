@@ -34,7 +34,8 @@ body {
 }
 
 .grey {
-    background-color: hsl(217, 19%, 35%); 
+    background-color: hsl(217, 19%, 35%);
+    color: #ecf2f8; 
 }
 
 .white-small, .white-tall {
