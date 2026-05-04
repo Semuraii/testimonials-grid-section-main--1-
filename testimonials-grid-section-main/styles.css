@@ -24,7 +24,7 @@ body {
     height: auto;
 }
 
-.container.purple {
+.purple {
     background-color: hsl(263, 55%, 52%);
     background-image: url('./images/bg-pattern-quotation.svg');
     background-repeat: no-repeat;
