@@ -24,6 +24,10 @@ body {
     height: auto;
     background-color: var(--clr-light-grayish-blue);
 }
+
+.user {
+    display: flex;
+}
  
     .purple, .white-small, .white-tall, .grey, .black-long { 
         padding: 2rem;
