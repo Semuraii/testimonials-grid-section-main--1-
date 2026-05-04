@@ -25,6 +25,14 @@ body {
     background-color: var(--clr-light-grayish-blue);
 }
 
+{ 
+    .purple, .white-small, .white-tall, .grey, .black-long {
+        padding: 2rem;
+        border-radius: 5px;
+    }
+
+}
+
 .purple {
     background-color: hsl(263, 55%, 52%);
     background-image: url('./images/bg-pattern-quotation.svg');
