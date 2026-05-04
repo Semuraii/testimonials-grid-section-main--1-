@@ -30,3 +30,8 @@ body {
     background-repeat: no-repeat;
     background-position: top right 2rem;
 }
+
+.grey {
+    background-color: hsl(217, 19%, 35%); 
+}
+
