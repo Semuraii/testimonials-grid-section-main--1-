@@ -72,5 +72,9 @@ body {
     color: #ecf2f8;
 }
 
+.black-long {
+    grid-column: 2/4;
+}
+
 
 
