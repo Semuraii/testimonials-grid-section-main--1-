@@ -52,6 +52,10 @@ body {
     color: #ecf2f8;
 }
 
+.purple .bottom {
+    padding-right: 2rem;
+}
+
 .purple {
     grid-column: 1/3;
 }
