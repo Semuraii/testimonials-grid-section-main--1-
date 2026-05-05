@@ -25,7 +25,7 @@ body {
     grid-template-rows: auto;
     gap: 20px;
     height: auto;
-    background-color: var(--clr-light-grayish-blue);
+    background-color: hsl(0, 0%, 81%);
 }
 
 .user {
