@@ -65,6 +65,10 @@ body {
     color: #ecf2f8; 
 }
 
+.grey .bottom { 
+    padding-right: 2rem;
+}
+
 .white-small, .white-tall {
     background-color: #ecf2f8;
 }
