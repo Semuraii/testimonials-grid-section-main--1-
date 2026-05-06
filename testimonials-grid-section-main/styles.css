@@ -106,5 +106,11 @@ body {
     color: hsl(214, 17%, 92%);
 }
 
+.top { 
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
 
 
