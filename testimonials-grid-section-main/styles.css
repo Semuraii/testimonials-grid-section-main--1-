@@ -91,5 +91,12 @@ body {
     grid-column: 2/4;
 }
 
+.user { 
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    margin-bottom: 1rem
+}
+
 
 
