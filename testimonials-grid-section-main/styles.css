@@ -91,6 +91,10 @@ body {
     color: #ecf2f8;
 }
 
+.black-long .bottom { 
+    padding-right: 2rem;
+}
+
 .black-long {
     grid-column: 2/4;
 }
